@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my personal growth<br>👯 I’m looking to collaborate on mini IT Projects <br>🤝 I’m looking for help with boosting my career<br>🌱 I’m currently learning Salesforce development<br>💬 Ask me about Sports and Apex <br>⚡ Fun fact: I'm lazy AF
+🔭 I’m currently working on my personal growth<br>👯 I’m looking to collaborate on mini IT Projects <br>🤝 I’m looking for help with boosting my career<br>🌱 I’m currently learning AI<br>💬 Ask me about Sports and Odoo <br>⚡ Fun fact: I'm lazy AF
 
 
 ## 🌐 Socials:
