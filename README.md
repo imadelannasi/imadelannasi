@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my personal growth<br>👯 I’m looking to collaborate on mini IT Projects <br>🤝 I’m looking for help with Career Boost<br>🌱 I’m currently learning AI<br>💬 Ask me about Sports, AI and Odoo <br>⚡ Fun fact: I'm lazy AF
+🔭 I’m currently working on my personal growth<br>👯 I’m looking to collaborate on mini IT Projects <br>🤝 I’m looking for help with expanding my network and knowledge-sharing<br>🌱 I’m currently learning AI<br>💬 Ask me about Sports, AI and Odoo <br>⚡ Fun fact: I can spend hours debugging but will procrastinate on writing a simple email 
 
 
 ## 🌐 Socials:
