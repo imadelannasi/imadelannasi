@@ -27,7 +27,7 @@
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imadtheking&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 ## 🌐 Top Languages:
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=imadtheking&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=imadtheking&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
