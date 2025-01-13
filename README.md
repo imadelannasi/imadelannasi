@@ -24,7 +24,7 @@
 ![Artificial Intelligence](https://img.shields.io/badge/artificial%20intelligence-%2320232a.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 🌐 Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imadtheking)](https://github.com/imadtheking)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imadelannasi)](https://github.com/imadelannasi)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
