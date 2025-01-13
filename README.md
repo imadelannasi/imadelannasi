@@ -23,20 +23,17 @@
 ![Machine Learning](https://img.shields.io/badge/machine%20learning-%2320232a.svg?style=for-the-badge&logo=scikit-learn&logoColor=%2361DAFB) 
 ![Artificial Intelligence](https://img.shields.io/badge/artificial%20intelligence-%2320232a.svg?style=for-the-badge&logo=openai&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imadtheking&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-# 🔥 GitHub Streak:
-![](https://github-readme-streak-stats.herokuapp.com/?user=imadtheking&theme=radical&hide_border=false)
-
-# 🌐 Top Languages:
+## 🌐 Top Languages:
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=imadtheking&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://api.memegen.link/images/awesome/When_code_works_/but_I_don't_know_how.png" width="512px"/>
+<img src="https://api.memegen.link/images/awesome/When_code_works_/but_I_don't_know_how.png" width="200px"/>
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/elannasii) 
