@@ -24,21 +24,21 @@
 ![Artificial Intelligence](https://img.shields.io/badge/artificial%20intelligence-%2320232a.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imadtheking&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=imadtheking&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imadtheking&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imadtheking&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+# 🔥 GitHub Streak:
+[](https://github-readme-streak-stats.herokuapp.com/?user=imadtheking&theme=radical&hide_border=false)
+
+# 🌐 Top Languages:
+[](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=imadtheking&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://api.memegen.link/images/ds/Keep_coding/and_never_stop.png" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=imadtheking&icon=8&color=9)](https://visitcount.itsvg.in)
+<img src="https://api.memegen.link/images/awesome/When_code_works_/but_I_don't_know_how.png" width="512px"/>
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/elannasii) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
