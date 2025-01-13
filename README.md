@@ -23,11 +23,8 @@
 ![Machine Learning](https://img.shields.io/badge/machine%20learning-%2320232a.svg?style=for-the-badge&logo=scikit-learn&logoColor=%2361DAFB) 
 ![Artificial Intelligence](https://img.shields.io/badge/artificial%20intelligence-%2320232a.svg?style=for-the-badge&logo=openai&logoColor=white)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imadtheking&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
 ## 🌐 Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imadtheking)](https://github.com/imadtheking/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imadtheking)](https://github.com/imadtheking)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
