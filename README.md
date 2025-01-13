@@ -24,13 +24,13 @@
 ![Artificial Intelligence](https://img.shields.io/badge/artificial%20intelligence-%2320232a.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 # 📊 GitHub Stats:
-[](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imadtheking&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imadtheking&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 # 🔥 GitHub Streak:
-[](https://github-readme-streak-stats.herokuapp.com/?user=imadtheking&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=imadtheking&theme=radical&hide_border=false)
 
 # 🌐 Top Languages:
-[](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=imadtheking&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=imadtheking&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
