@@ -1,8 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on my personal growth<br>👯 I’m looking to collaborate on mini IT Projects <br>🤝 I’m looking for help with expanding my network and knowledge-sharing<br>🌱 I’m currently learning AI<br>💬 Ask me about Sports, AI and Odoo <br>⚡ Fun fact: I can spend hours debugging but will procrastinate on writing a simple email 
 
-
-## 🌐 Socials:
+ 
+## 🌐 Socials: 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/imad.annasi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oji.no.imaddo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imadelannasi) 
 
 # 💻 Tech Stack:
